@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nX2mKln1zopO6xqHJ1Lod8kulLDNPgZeyRn1o9JB4JFmx2BPTyq4fhnxPn917nS9OL3aoKplYuRCJSA9RCEIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MRB 001\\Desktop\\minimal-api\\minimal-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MRB 001\\.nuget\\packages\\fastendpoints\\5.14.0\\fastendpoints.5.14.0.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\fastendpoints.attributes\\5.14.0\\fastendpoints.attributes.5.14.0.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\fastendpoints.messaging.core\\5.14.0\\fastendpoints.messaging.core.5.14.0.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\MRB 001\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
